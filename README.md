@@ -1,6 +1,6 @@
 # Supply Chain and Operations Projects
 ---
-# Amazon Lab126 Inspired Operations Project – Echo Smart Display V2  
+## Amazon Lab126 Inspired Operations Project – Echo Smart Display V2  
 
 This project simulates the **Operations Program Specialist (OPS)** role at **Amazon Lab126** (the team behind Echo, Kindle, and Fire devices).  
 It demonstrates how OPS manages **BOMs, ECOs, build planning, procurement, and risk** to take a product from design → prototype → manufacturability.  
